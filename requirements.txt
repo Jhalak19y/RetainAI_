@@ -1,0 +1,15 @@
+streamlit==1.42.2
+pandas==2.2.3
+numpy==2.2.2
+scikit-learn==1.6.1
+xgboost==2.1.4
+shap==0.46.0
+plotly==6.0.0
+sqlalchemy==2.0.38
+bcrypt==4.2.1
+joblib==1.4.2
+matplotlib==3.10.0
+seaborn==0.13.2
+reportlab==4.3.1
+pytest==8.3.4
+ruff==0.9.7
